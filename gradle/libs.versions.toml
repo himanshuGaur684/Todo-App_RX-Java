@@ -61,6 +61,9 @@ lifecycle-compose = { module = "androidx.lifecycle:lifecycle-runtime-compose", v
 dagger-hilt = { module = "com.google.dagger:hilt-android", version = "2.52" }
 dagger-kapt = { module = 'com.google.dagger:hilt-android-compiler', version = "2.52" }
 
+compose-material = { module = "androidx.compose.material:material", name = "1.6.8" }
+
+
 [plugins]
 android-application = { id = "com.android.application", version.ref = "agp" }
 kotlin-android = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }

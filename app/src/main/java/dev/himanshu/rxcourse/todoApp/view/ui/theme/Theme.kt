@@ -1,4 +1,4 @@
-package dev.himanshu.rxcourse.todoApp.ui.theme
+package dev.himanshu.rxcourse.todoApp.view.ui.theme
 
 import android.app.Activity
 import android.os.Build
