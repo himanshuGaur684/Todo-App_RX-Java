@@ -79,4 +79,7 @@ dependencies {
     implementation(libs.lifecycle.viewmodel)
     implementation(libs.lifecycle.compose)
 
+    // compose material
+    implementation(libs.compose.material)
+
 }
